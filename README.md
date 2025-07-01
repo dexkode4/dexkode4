@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏾‍💻 Working as a frontend ( Mobile and web ) engineer since 2020<br> 🌱 Currently taming Python 🐍 to use it for all things AI/ML
+👨🏾‍💻 Working as a frontend ( Mobile and web ) engineer since 2019<br> 🌱 Currently taming Python 🐍 to use it for all things AI/ML
 
 
 ## 🌐 Socials:
