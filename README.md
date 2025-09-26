@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏾‍💻 Working as a frontend ( Mobile and web ) engineer since 2019<br> AI/ML is the future
+👨🏾‍💻 Frontend ( Mobile and web ) engineer since 2019<br>
 
 
 ## 🌐 Socials:
